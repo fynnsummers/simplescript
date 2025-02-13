@@ -50,7 +50,7 @@ Um diesen Code lokal auszuführen, folge diesen Schritten:
 
 1. **Repository klonen**:
     ```bash
-    git clone https://github.com/dein-benutzername/repository-name.git
+    git clone https://github.com/fynnsummers/simplescript.git
     ```
 
 2. **`index.html`** im Webbrowser öffnen, um die Code-Ausführungsumgebung zu nutzen.
